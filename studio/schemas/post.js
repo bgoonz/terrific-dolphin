@@ -18,18 +18,11 @@ export default {
             "validation": null
         },
         {
-            "type": "date",
-            "name": "date",
-            "title": "Date",
-            "validation": Rule => Rule.required()
-        },
-        {
-            "type": "image",
-            "name": "thumb_img_path",
-            "title": "Image (Blog Feed)",
-            "description": "The image shown in the blog feed",
-            "validation": null
-        },
+            title: "Body",
+            name: "body",
+            type: "array",
+            of: [{ type: "block" }]
+          },
         {
             "type": "string",
             "name": "thumb_img_alt",
