@@ -922,7 +922,7 @@
                 },
                 "footer": {
                     "type": "footer",
-                    "content": "&copy; ft-potluck-planer-05. All rights reserved.,
+                    "content": "&copy; ft-potluck-planer-05. All rights reserved.",
                     "stackbit_model_type": "object"
                 },
                 "stackbit_file_path": "content/data/config.json"
