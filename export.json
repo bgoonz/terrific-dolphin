@@ -857,7 +857,7 @@
                         },
                         {
                             "type": "action",
-                            "label": "Style Guide",
+                            "label": "Deliverables & Project Definitions ",
                             "url": "/style-guide",
                             "style": "link",
                             "stackbit_model_type": "object"
@@ -1618,12 +1618,12 @@
             "relPath": "style-guide.md",
             "data": {
                 "stackbit_model_type": "page",
-                "title": "Style Guide",
-                "subtitle": "The style guide provides you with a blueprint of default post and page styles. The style guide is also a great reference for suggested typographic treatment and styles for your content.",
+                "title": "Deliverables & Project Definitions ",
+                "subtitle": "The Deliverables & Project Definitions  provides you with a blueprint of default post and page styles. The Deliverables & Project Definitions  is also a great reference for suggested typographic treatment and styles for your content.",
                 "img_path": "images/style-guide.jpg",
                 "seo": {
                     "type": "stackbit_page_meta",
-                    "title": "Theme Style Guide",
+                    "title": "Theme Deliverables & Project Definitions ",
                     "description": "A reference for suggested typographic treatment and styles for your content",
                     "extra": [
                         {
@@ -1633,7 +1633,7 @@
                         },
                         {
                             "name": "og:title",
-                            "value": "Theme Style Guide",
+                            "value": "Theme Deliverables & Project Definitions ",
                             "keyName": "property"
                         },
                         {
@@ -1653,7 +1653,7 @@
                         },
                         {
                             "name": "twitter:title",
-                            "value": "Theme Style Guide"
+                            "value": "Theme Deliverables & Project Definitions "
                         },
                         {
                             "name": "twitter:description",
