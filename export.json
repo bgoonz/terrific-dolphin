@@ -229,7 +229,7 @@
         {
             "type": "page",
             "urlPath": "/",
-            "label": "Home",
+            "label": "Navigation",
             "layout": "home",
             "file": "index.md",
             "hideContent": true,
@@ -293,7 +293,7 @@
                     "hidden": true
                 }
             ],
-            "name": "home"
+            "name": "Navigation"
         },
         {
             "type": "page",
