@@ -24,10 +24,7 @@ export default class Home extends React.Component {
                           <article key={post_idx} className="post">
                             <header className="post-header">
                               <h2 className="post-title"><Link href={withPrefix(_.get(post, 'stackbit_url_path', null))} rel="bookmark">{_.get(post, 'title', null)}</Link></h2>
-                              <div className="post-meta">
-                                Published on <time className="published"
-                                  dateTime={moment(_.get(post, 'date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'date', null)).strftime('%B %d, %Y')}</time>
-                              </div>
+                              
                             </header>
                             {_.get(post, 'thumb_img_path', null) && (
                             <Link className="post-thumbnail" href={withPrefix(_.get(post, 'stackbit_url_path', null))}>
