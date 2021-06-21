@@ -922,7 +922,7 @@
                 },
                 "footer": {
                     "type": "footer",
-                    "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+                    "content": "&copy; ft-potluck-planer-05. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
                     "stackbit_model_type": "object"
                 },
                 "stackbit_file_path": "content/data/config.json"
