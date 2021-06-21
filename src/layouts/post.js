@@ -22,7 +22,10 @@ export default class Post extends React.Component {
                   <article className="post post-full">
                     <header className="post-header">
                       <h1 className="post-title">{_.get(this.props, 'page.title', null)}</h1>
-                     
+                      <div className="post-meta">
+                        Published on <time className="published"
+                          dateTime={moment(_.get(this.props, 'page.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'page.date', null)).strftime('%B %d, %Y')}</time>
+                      </div>
                     </header>
                     {_.get(this.props, 'page.subtitle', null) && (
                     <div className="post-subtitle">
