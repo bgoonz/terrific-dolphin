@@ -1112,7 +1112,7 @@
                 "seo": {
                     "type": "stackbit_page_meta",
                     "title": "Potluck Planner",
-                    "description": "The preview of the Fjord theme",
+                    "description": "Potluck Planner",
                     "extra": [
                         {
                             "name": "og:type",
@@ -1126,7 +1126,7 @@
                         },
                         {
                             "name": "og:description",
-                            "value": "The preview of the Fjord theme",
+                            "value": "Potluck Planner",
                             "keyName": "property"
                         },
                         {
@@ -1145,7 +1145,7 @@
                         },
                         {
                             "name": "twitter:description",
-                            "value": "The preview of the Fjord theme"
+                            "value": "Potluck Planner"
                         },
                         {
                             "name": "twitter:image",
