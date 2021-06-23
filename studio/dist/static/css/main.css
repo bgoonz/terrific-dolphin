@@ -1374,7 +1374,7 @@ span.DefaultButton_content_3vpzk {
   font-family: Georgia, Times New Roman, Times, serif;
   font-style: italic;
   margin: 0;
-  padding: .5em .5em .5em 1.2em;
+  padding: .5em .5em .5em 1em;
   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 400 300'><polygon opacity='0.15' fill='currentColor' points='184,40 108,150 166,150 166,300 0,300 16,139 103,40'/><polygon opacity='0.15' fill='currentColor' points='216,260 292,150 234,150 234,0 400,0 384,161 297,260'/></svg>");
   background-repeat: no-repeat;
   background-position: 0 0;
@@ -5425,7 +5425,7 @@ span.DefaultButton_content_3vpzk {
 
 .Switch_switchWrapper_112tB {
   position: relative;
-  min-width: 2.5em
+  min-width: 1.5em
 }
 
 .Switch_switch_-U6Fu {
@@ -6111,7 +6111,7 @@ span.DefaultButton_content_3vpzk {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  height: 2.5em;
+  height: 1.5em;
   position: relative;
   clear: both
 }
@@ -6133,7 +6133,7 @@ span.DefaultButton_content_3vpzk {
 
 .DefaultPreview_title_3P-N4 {
   font-size: 1em;
-  line-height: 2.5em;
+  line-height: 1.5em;
   color: inherit;
   font-weight: 400;
   text-transform: none;
@@ -6886,7 +6886,7 @@ span.DefaultButton_content_3vpzk {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  height: 2.5em;
+  height: 1.5em;
   position: relative;
   clear: both
 }
@@ -6908,7 +6908,7 @@ span.DefaultButton_content_3vpzk {
 
 .DefaultPreview_title_3P-N4 {
   font-size: 1em;
-  line-height: 2.5em;
+  line-height: 1.5em;
   color: inherit;
   font-weight: 400;
   text-transform: none;
@@ -8152,7 +8152,7 @@ span.DefaultButton_content_3vpzk {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  padding: .5em 2.5em .5em .5em;
+  padding: .5em 1.5em .5em .5em;
   border: 1px solid hsla(0, 0%, 9%, .2);
   display: block;
   outline: none;
@@ -9039,8 +9039,8 @@ span.DefaultButton_content_3vpzk {
   appearance: none;
   position: relative;
   overflow: hidden;
-  height: 2.5em;
-  margin-right: 2.5em
+  height: 1.5em;
+  margin-right: 1.5em
 }
 
 .DefaultSelect_select_3xha0:not(:disabled):hover {
@@ -9132,7 +9132,7 @@ span.DefaultButton_content_3vpzk {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  width: 2.5em;
+  width: 1.5em;
   color: inherit
 }
 
@@ -9453,7 +9453,7 @@ span.DefaultButton_content_3vpzk {
 
 .Toolbar_fullscreenButtonContainer_2OJTj {
   margin-left: auto;
-  width: 2.5em;
+  width: 1.5em;
   height: 100%
 }
 
@@ -9480,7 +9480,7 @@ span.DefaultButton_content_3vpzk {
   position: relative;
   z-index: 20;
   padding: .5rem;
-  height: 2.5em
+  height: 1.5em
 }
 
 .PrimaryGroup_blockStyleSelect_wzeOm {
@@ -9650,7 +9650,7 @@ span.DefaultButton_content_3vpzk {
 
 .Toolbar_fullscreenButtonContainer_2OJTj {
   margin-left: auto;
-  width: 2.5em;
+  width: 1.5em;
   height: 100%
 }
 
@@ -9871,7 +9871,7 @@ span.DefaultButton_content_3vpzk {
   -ms-flex-pack: center;
   justify-content: center;
   border-left: 1px solid hsla(0, 0%, 9%, .2);
-  min-width: 2.5em
+  min-width: 1.5em
 }
 
 .SearchableSelect_arrow_11ODg {
@@ -10905,8 +10905,8 @@ span.DefaultButton_content_3vpzk {
   appearance: none;
   position: relative;
   overflow: hidden;
-  height: 2.5em;
-  margin-right: 2.5em
+  height: 1.5em;
+  margin-right: 1.5em
 }
 
 .DefaultSelect_select_3xha0:not(:disabled):hover {
@@ -10998,7 +10998,7 @@ span.DefaultButton_content_3vpzk {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  width: 2.5em;
+  width: 1.5em;
   color: inherit
 }
 
@@ -12897,7 +12897,7 @@ span.DefaultButton_content_3vpzk {
   transition: transform .3s ease-in, box-shadow .2s ease-in, -webkit-transform .3s ease-in, -webkit-box-shadow .2s ease-in;
   grid-template-areas: "publishButton publishInfoUndoButton";
   grid-template-columns: auto auto;
-  grid-template-rows: 2.5em;
+  grid-template-rows: 1.5em;
   -webkit-box-pack: stretch;
   -ms-flex-pack: stretch;
   justify-content: stretch;
