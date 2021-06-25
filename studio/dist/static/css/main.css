@@ -32,7 +32,7 @@ main {
 }
 
 figure {
-  margin: 1em 40px
+  margin: 1.3em 40px
 }
 
 hr {
@@ -44,7 +44,7 @@ hr {
 
 pre {
   font-family: monospace, monospace;
-  font-size: 1em
+  font-size: 1.3em
 }
 
 a {
@@ -74,7 +74,7 @@ code,
 kbd,
 samp {
   font-family: monospace, monospace;
-  font-size: 1em
+  font-size: 1.3em
 }
 
 dfn {
@@ -369,7 +369,7 @@ template {
   font-size: 42px;
   font-size: 2.625rem;
   margin: 0 0 .5em;
-  line-height: 1em
+  line-height: 1.3em
 }
 
 .FullscreenDialog_content_1ekVe {
@@ -468,8 +468,8 @@ template {
   right: 16px;
   right: 1rem;
   font-size: 3em;
-  height: 1em;
-  width: 1em;
+  height: 1.3em;
+  width: 1.3em;
   border: none;
   color: inherit;
   outline: none;
@@ -556,7 +556,7 @@ template {
   border: none;
   color: inherit;
   font-weight: inherit;
-  font-size: 1em;
+  font-size: 1.3em;
   line-height: 1.25;
   font-family: inherit;
   -webkit-user-select: none;
@@ -1145,8 +1145,8 @@ span.DefaultButton_content_3vpzk {
 }
 
 .Spinner_inline_3cQNM .Spinner_icon_fb038 {
-  height: 1em;
-  width: 1em;
+  height: 1.3em;
+  width: 1.3em;
   display: block;
   -ms-flex-item-align: center;
   align-self: center
@@ -1162,7 +1162,7 @@ span.DefaultButton_content_3vpzk {
 }
 
 .Spinner_inline_3cQNM.Spinner_center_RisPA .Spinner_message_324_5 {
-  margin-left: 1em
+  margin-left: 1.3em
 }
 
 .Spinner_icon_fb038 {
@@ -1178,8 +1178,8 @@ span.DefaultButton_content_3vpzk {
   -webkit-transform-origin: center center;
   transform-origin: center center;
   shape-rendering: geometricPrecision;
-  height: 1em;
-  width: 1em
+  height: 1.3em;
+  width: 1.3em
 }
 
 .Spinner_icon_fb038 svg {
@@ -1374,7 +1374,7 @@ span.DefaultButton_content_3vpzk {
   font-family: Georgia, Times New Roman, Times, serif;
   font-style: italic;
   margin: 0;
-  padding: .5em .5em .5em 1em;
+  padding: .5em .5em .5em 1.3em;
   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 400 300'><polygon opacity='0.15' fill='currentColor' points='184,40 108,150 166,150 166,300 0,300 16,139 103,40'/><polygon opacity='0.15' fill='currentColor' points='216,260 292,150 234,150 234,0 400,0 384,161 297,260'/></svg>");
   background-repeat: no-repeat;
   background-position: 0 0;
@@ -1442,7 +1442,7 @@ span.DefaultButton_content_3vpzk {
 
 .LoginDialogContent_provider_3gQ8U {
   display: inline-block;
-  margin: 1em;
+  margin: 1.3em;
   padding: 0
 }
 
@@ -1453,7 +1453,7 @@ span.DefaultButton_content_3vpzk {
   display: block;
   border: none;
   background-color: transparent;
-  padding: 1em;
+  padding: 1.3em;
   outline: none !important;
   cursor: pointer
 }
@@ -1555,7 +1555,7 @@ span.DefaultButton_content_3vpzk {
   padding: 0
 }
 
-.DialogContent_padding_small_1em72 {
+.DialogContent_padding_small_1.3em72 {
   padding: .5rem
 }
 
@@ -2102,7 +2102,7 @@ span.DefaultButton_content_3vpzk {
   -webkit-box-flex: 1;
   -ms-flex-positive: 1;
   flex-grow: 1;
-  padding-top: 1em
+  padding-top: 1.3em
 }
 
 .ValidationListItem_truncate_1oAWY .ValidationListItem_content_iQ11F {
@@ -3161,8 +3161,8 @@ span.DefaultButton_content_3vpzk {
 
 .DefaultFieldset_arrow_10Y-o {
   display: inline-block;
-  width: 1em;
-  height: 1em;
+  width: 1.3em;
+  height: 1.3em;
   overflow: hidden;
   line-height: 1;
   padding: 0;
@@ -3174,7 +3174,7 @@ span.DefaultButton_content_3vpzk {
   transition: transform .1s linear, -webkit-transform .1s linear;
   -webkit-transform: rotate(-90deg);
   transform: rotate(-90deg);
-  margin: -.1em .25em 0 0
+  margin: -.1.3em .25em 0 0
 }
 
 .DefaultFieldset_arrow_10Y-o.DefaultFieldset_isOpen_1tZIA {
@@ -3403,8 +3403,8 @@ span.DefaultButton_content_3vpzk {
 
 .DefaultFieldset_arrow_10Y-o {
   display: inline-block;
-  width: 1em;
-  height: 1em;
+  width: 1.3em;
+  height: 1.3em;
   overflow: hidden;
   line-height: 1;
   padding: 0;
@@ -3416,7 +3416,7 @@ span.DefaultButton_content_3vpzk {
   transition: transform .1s linear, -webkit-transform .1s linear;
   -webkit-transform: rotate(-90deg);
   transform: rotate(-90deg);
-  margin: -.1em .25em 0 0
+  margin: -.1.3em .25em 0 0
 }
 
 .DefaultFieldset_arrow_10Y-o.DefaultFieldset_isOpen_1tZIA {
@@ -3673,7 +3673,7 @@ textarea.InvalidValueInput_currentValueDump_rOHWB {
 
 .ActivateOnFocus_html_yjREn {
   pointer-events: auto;
-  font-size: 1em
+  font-size: 1.3em
 }
 
 @-webkit-keyframes DefaultButton_focused_1zzac {
@@ -3742,7 +3742,7 @@ textarea.InvalidValueInput_currentValueDump_rOHWB {
   border: none;
   color: inherit;
   font-weight: inherit;
-  font-size: 1em;
+  font-size: 1.3em;
   line-height: 1.25;
   font-family: inherit;
   -webkit-user-select: none;
@@ -4483,15 +4483,15 @@ span.DefaultButton_content_3vpzk {
 }
 
 .ArrayInput_missingKeysWarning_3VmkB {
-  padding: 1em
+  padding: 1.3em
 }
 
 .ArrayInput_fixMissingKeysButtonWrapper_1TZae {
-  margin: 1em 0
+  margin: 1.3em 0
 }
 
 .ArrayInput_nonObjectsWarning_1gmQO {
-  padding: 1em
+  padding: 1.3em
 }
 
 @-webkit-keyframes DefaultSnackbar_reveal_oCdtz {
@@ -4659,9 +4659,9 @@ span.DefaultButton_content_3vpzk {
 
 .DragHandle_dragHandle_1r8ft {
   position: absolute;
-  right: 1em;
+  right: 1.3em;
   cursor: move;
-  font-size: 1em;
+  font-size: 1.3em;
   height: 1.5em;
   width: 1.5em;
   line-height: 100%;
@@ -4988,7 +4988,7 @@ span.DefaultButton_content_3vpzk {
   cursor: pointer;
   outline: none;
   color: inherit;
-  margin-right: .1em
+  margin-right: .1.3em
 }
 
 .PopOver_closeOutsideHeader_3wDRA {
@@ -5044,7 +5044,7 @@ span.DefaultButton_content_3vpzk {
 }
 
 .PopOver_responsive_3SqHC .PopOver_head_3vA6P {
-  font-size: 1em;
+  font-size: 1.3em;
   padding: .5em;
   overflow: hidden;
   position: fixed;
@@ -5091,7 +5091,7 @@ span.DefaultButton_content_3vpzk {
 }
 
 .PopOver_primaryFunctions_3gyY4 {
-  margin-top: 1em
+  margin-top: 1.3em
 }
 
 .PopOver_paddingDummy_1IEz- {
@@ -5114,7 +5114,7 @@ span.DefaultButton_content_3vpzk {
 
 .DragHandle_default_28zIQ {
   cursor: ns-resize;
-  font-size: 1em;
+  font-size: 1.3em;
   display: block;
   opacity: .5;
   -webkit-box-sizing: border-box;
@@ -5602,7 +5602,7 @@ span.DefaultButton_content_3vpzk {
 }
 
 .Checkbox_input_1U_6_ {
-  line-height: 1em;
+  line-height: 1.3em;
   position: absolute;
   width: 0;
   height: 0;
@@ -5622,12 +5622,12 @@ span.DefaultButton_content_3vpzk {
   display: block;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  width: 1em;
-  height: 1em;
+  width: 1.3em;
+  height: 1.3em;
   margin: 0;
   cursor: default;
   overflow: hidden;
-  border: .1em solid #24a3e3;
+  border: .1.3em solid #24a3e3;
   border-radius: 10%;
   z-index: 2;
   background-color: #fff
@@ -5663,8 +5663,8 @@ span.DefaultButton_content_3vpzk {
   position: absolute;
   top: 50%;
   left: 50%;
-  height: 1em;
-  width: 1em;
+  height: 1.3em;
+  width: 1.3em;
   border-radius: 10%;
   background-color: #24a3e3;
   opacity: 0;
@@ -5700,8 +5700,8 @@ span.DefaultButton_content_3vpzk {
 
 .Checkbox_label_1KSgg {
   cursor: default;
-  font-size: 1em;
-  line-height: 1em;
+  font-size: 1.3em;
+  line-height: 1.3em;
   margin: 0
 }
 
@@ -5851,7 +5851,7 @@ span.DefaultButton_content_3vpzk {
   display: block;
   font-family: inherit;
   font-weight: 700;
-  line-height: 1.1em;
+  line-height: 1.1.3em;
   color: inherit;
   margin: 0;
   padding: 0
@@ -6012,7 +6012,7 @@ span.DefaultButton_content_3vpzk {
 }
 
 .CardPreview_meta_1rxhi {
-  padding: 1em;
+  padding: 1.3em;
   background-color: inherit
 }
 
@@ -6046,7 +6046,7 @@ span.DefaultButton_content_3vpzk {
 .CardPreview_placeholder_2XQMt .CardPreview_subtitle_29gco {
   background-image: -webkit-gradient(linear, left top, right top, from(rgba(48, 48, 48, .1)), color-stop(10%, rgba(48, 48, 48, .05)), to(rgba(48, 48, 48, .1)));
   background-image: linear-gradient(90deg, rgba(48, 48, 48, .1), rgba(48, 48, 48, .05) 10%, rgba(48, 48, 48, .1));
-  height: 1em
+  height: 1.3em
 }
 
 .CardPreview_placeholder_2XQMt .CardPreview_date_2on4H {
@@ -6132,7 +6132,7 @@ span.DefaultButton_content_3vpzk {
 }
 
 .DefaultPreview_title_3P-N4 {
-  font-size: 1em;
+  font-size: 1.3em;
   line-height: 1.5em;
   color: inherit;
   font-weight: 400;
@@ -6362,7 +6362,7 @@ span.DefaultButton_content_3vpzk {
   padding: 0;
   margin: .25em 0 0;
   font-size: .75em;
-  line-height: 1em;
+  line-height: 1.3em;
   overflow: hidden;
   height: 2em
 }
@@ -6495,14 +6495,14 @@ span.DefaultButton_content_3vpzk {
 }
 
 .MediaPreview_title_2BuhY {
-  font-size: 1em;
+  font-size: 1.3em;
   font-weight: 100;
   text-transform: uppercase;
   margin: 0
 }
 
 .MediaPreview_subtitle_18kSI {
-  font-size: 1em;
+  font-size: 1.3em;
   font-weight: 300;
   margin: 0
 }
@@ -6511,7 +6511,7 @@ span.DefaultButton_content_3vpzk {
   max-width: 80%;
   color: #fff;
   font-weight: 100;
-  margin: 1em auto;
+  margin: 1.3em auto;
   opacity: .5
 }
 
@@ -6621,7 +6621,7 @@ span.DefaultButton_content_3vpzk {
 
 @-webkit-keyframes ProgressCircle_finish_3f8mB {
   0% {
-    stroke-width: 1em
+    stroke-width: 1.3em
   }
 
   10% {
@@ -6643,7 +6643,7 @@ span.DefaultButton_content_3vpzk {
 
 @keyframes ProgressCircle_finish_3f8mB {
   0% {
-    stroke-width: 1em
+    stroke-width: 1.3em
   }
 
   10% {
@@ -6807,7 +6807,7 @@ span.DefaultButton_content_3vpzk {
 
 .ProgressCircle_text_3OJmD {
   font-weight: 400;
-  font-size: 1em;
+  font-size: 1.3em;
   fill: inherit;
   -webkit-transform-origin: center center;
   transform-origin: center center
@@ -6907,7 +6907,7 @@ span.DefaultButton_content_3vpzk {
 }
 
 .DefaultPreview_title_3P-N4 {
-  font-size: 1em;
+  font-size: 1.3em;
   line-height: 1.5em;
   color: inherit;
   font-weight: 400;
@@ -8536,7 +8536,7 @@ span.DefaultButton_content_3vpzk {
 }
 
 .ListItem_level-8_M1NU7 {
-  left: 21em
+  left: 21.3em
 }
 
 .ListItem_level-9_MQEsO {
@@ -8727,7 +8727,7 @@ span.DefaultButton_content_3vpzk {
   font-family: monospace;
   background-color: #eee;
   color: #333;
-  padding: .1em .3em
+  padding: .1.3em .3em
 }
 
 .InlineObject_root_3Zj8Q {
@@ -8744,7 +8744,7 @@ span.DefaultButton_content_3vpzk {
   box-sizing: border-box;
   border: 1px solid transparent;
   background-color: #f2f2f2;
-  height: 1em;
+  height: 1.3em;
   padding: 0 .25em;
   border-radius: 2px
 }
@@ -9176,7 +9176,7 @@ span.DefaultButton_content_3vpzk {
 }
 
 .StyleSelect_title_tvaC- {
-  padding-right: 1em;
+  padding-right: 1.3em;
   color: #303030
 }
 
@@ -9224,7 +9224,7 @@ span.DefaultButton_content_3vpzk {
   overflow: hidden;
   min-height: 2em;
   cursor: default;
-  padding-right: 1em;
+  padding-right: 1.3em;
   color: inherit
 }
 
@@ -9250,7 +9250,7 @@ span.DefaultButton_content_3vpzk {
   transform: translateY(-50%);
   top: 50%;
   left: .5em;
-  font-size: 1em;
+  font-size: 1.3em;
   width: 2em;
   overflow: hidden
 }
@@ -9264,7 +9264,7 @@ span.DefaultButton_content_3vpzk {
 }
 
 .DecoratorButtons_buttonWrapper_Glo1k+.DecoratorButtons_buttonWrapper_Glo1k {
-  margin-left: .1em
+  margin-left: .1.3em
 }
 
 .InsertMenu_item_1pnDH {
@@ -9363,7 +9363,7 @@ span.DefaultButton_content_3vpzk {
   right: 100%;
   top: 0;
   height: 100%;
-  width: 1em;
+  width: 1.3em;
   z-index: 2;
   background: radial-gradient(hsla(0, 0%, 9%, .2), hsla(0, 0%, 9%, 0) 70%);
   background-position: .5em 0;
@@ -9382,7 +9382,7 @@ span.DefaultButton_content_3vpzk {
   display: -ms-flexbox;
   display: flex;
   position: relative;
-  padding-right: 1em
+  padding-right: 1.3em
 }
 
 @media (min-width:32em) {
@@ -9417,8 +9417,8 @@ span.DefaultButton_content_3vpzk {
 
 .Toolbar_primaryInnerCollapsedOpen_1-1_F {
   position: absolute;
-  top: 1em;
-  left: 1em;
+  top: 1.3em;
+  left: 1.3em;
   z-index: 10
 }
 
@@ -9560,7 +9560,7 @@ span.DefaultButton_content_3vpzk {
   right: 100%;
   top: 0;
   height: 100%;
-  width: 1em;
+  width: 1.3em;
   z-index: 2;
   background: radial-gradient(hsla(0, 0%, 9%, .2), hsla(0, 0%, 9%, 0) 70%);
   background-position: .5em 0;
@@ -9579,7 +9579,7 @@ span.DefaultButton_content_3vpzk {
   display: -ms-flexbox;
   display: flex;
   position: relative;
-  padding-right: 1em
+  padding-right: 1.3em
 }
 
 @media (min-width:32em) {
@@ -9614,8 +9614,8 @@ span.DefaultButton_content_3vpzk {
 
 .Toolbar_primaryInnerCollapsedOpen_1-1_F {
   position: absolute;
-  top: 1em;
-  left: 1em;
+  top: 1.3em;
+  left: 1.3em;
   z-index: 10
 }
 
@@ -9893,7 +9893,7 @@ span.DefaultButton_content_3vpzk {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  font-size: 1em
+  font-size: 1.3em
 }
 
 .SearchableSelect_arrow_11ODg svg {
@@ -9968,7 +9968,7 @@ span.DefaultButton_content_3vpzk {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  font-size: 1em
+  font-size: 1.3em
 }
 
 .SearchableSelect_spinner_38ytg svg {
@@ -10635,7 +10635,7 @@ span.DefaultButton_content_3vpzk {
 .OptionsArrayInput_error_1PKjg {
   font-size: 12.8px;
   font-size: .8rem;
-  padding: 1em;
+  padding: 1.3em;
   margin-bottom: .5rem
 }
 
@@ -10647,7 +10647,7 @@ span.DefaultButton_content_3vpzk {
 .OptionsArrayInput_itemWrapperHorizontal_1ihUn {
   display: inline-block;
   line-height: 2em;
-  margin-right: 1em
+  margin-right: 1.3em
 }
 
 .DefaultList_root_8B-Db {
@@ -10712,8 +10712,8 @@ span.DefaultButton_content_3vpzk {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  padding: .1em;
-  margin: .1em
+  padding: .1.3em;
+  margin: .1.3em
 }
 
 .Item_root_2PrXZ.Item_media_2e8Yt {
@@ -10740,7 +10740,7 @@ span.DefaultButton_content_3vpzk {
   flex-grow: 0;
   cursor: ns-resize;
   opacity: .5;
-  font-size: 1em;
+  font-size: 1.3em;
   padding: .5em;
   border: 1px solid transparent;
   z-index: 1
@@ -10793,7 +10793,7 @@ span.DefaultButton_content_3vpzk {
   box-sizing: border-box;
   margin-right: .25em;
   padding: 0 .5em;
-  font-size: 1em;
+  font-size: 1.3em;
   line-height: 1.45em;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -10808,7 +10808,7 @@ span.DefaultButton_content_3vpzk {
   top: 0;
   cursor: pointer;
   height: 100%;
-  font-size: 1em;
+  font-size: 1.3em;
   padding-left: .5em
 }
 
@@ -10816,7 +10816,7 @@ span.DefaultButton_content_3vpzk {
   color: #000
 }
 
-.TextField_inner_M1EMQ {
+.TextField_inner_M1.3emQ {
   display: block
 }
 
@@ -10863,12 +10863,12 @@ span.DefaultButton_content_3vpzk {
   color: inherit;
   background-color: transparent;
   border: none;
-  line-height: 1em;
+  line-height: 1.3em;
   width: -webkit-fill-available;
   width: -moz-available;
   width: stretch;
   margin: .2em 0 0;
-  padding: 0 0 0 .1em;
+  padding: 0 0 0 .1.3em;
   z-index: 1
 }
 
@@ -11157,7 +11157,7 @@ span.DefaultButton_content_3vpzk {
 .RadioButtonDefault_label_1wHQx {
   position: relative;
   cursor: default;
-  font-size: 1em;
+  font-size: 1.3em;
   line-height: 16px;
   line-height: 1rem;
   margin: 0
@@ -11296,7 +11296,7 @@ span.DefaultButton_content_3vpzk {
 .Preview_root_v4L4W blockquote {
   color: #666;
   margin: 0;
-  padding: 0 1em;
+  padding: 0 1.3em;
   border-left: .5em solid #eee;
   white-space: pre-line
 }
@@ -11629,7 +11629,7 @@ span.DefaultButton_content_3vpzk {
   display: block;
   position: relative;
   line-height: 3em;
-  padding: 0 1em;
+  padding: 0 1.3em;
   cursor: default;
   text-decoration: none;
   color: inherit;
@@ -11966,7 +11966,7 @@ span.DefaultButton_content_3vpzk {
   -webkit-box-direction: normal;
   -ms-flex-direction: row;
   flex-direction: row;
-  margin-left: 1em
+  margin-left: 1.3em
 }
 
 .DefaultPane_main_1fnq9 {
@@ -12293,7 +12293,7 @@ span.DefaultButton_content_3vpzk {
 
 .EditorWrapper_errorDetails_1uxyO {
   width: 100%;
-  margin-top: 1em;
+  margin-top: 1.3em;
   height: 10em;
   white-space: pre;
   background: transparent;
@@ -12325,7 +12325,7 @@ span.DefaultButton_content_3vpzk {
   border: 1px solid;
   padding: 0 .3em;
   border-radius: .2em;
-  min-width: 1em;
+  min-width: 1.3em;
   text-align: center
 }
 
@@ -12496,8 +12496,8 @@ span.DefaultButton_content_3vpzk {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  width: 1em;
-  height: 1em;
+  width: 1.3em;
+  height: 1.3em;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   border-radius: 50%;
@@ -12868,7 +12868,7 @@ span.DefaultButton_content_3vpzk {
   color: inherit;
   font-size: .8em;
   margin-left: .6em;
-  padding-right: 1em;
+  padding-right: 1.3em;
   opacity: .5
 }
 
@@ -12970,9 +12970,9 @@ span.DefaultButton_content_3vpzk {
 }
 
 .Editor_popOverText_3ef12 {
-  font-size: 1em;
+  font-size: 1.3em;
   line-height: 1.25;
-  margin-bottom: 1em;
+  margin-bottom: 1.3em;
   text-align: center;
   max-width: 18em
 }
@@ -13037,7 +13037,7 @@ span.DefaultButton_content_3vpzk {
 
 @media (min-width:32em) {
   .Editor_paneFunctions_9bS_5 {
-    font-size: 1em
+    font-size: 1.3em
   }
 }
 
@@ -13140,7 +13140,7 @@ span.DefaultButton_content_3vpzk {
   box-sizing: border-box;
   white-space: nowrap;
   text-align: center;
-  border: .09091em solid transparent;
+  border: .09091.3em solid transparent;
   -webkit-transform: translateZ(0);
   transform: translateZ(0);
   cursor: default
@@ -13316,8 +13316,8 @@ span.DefaultButton_content_3vpzk {
 }
 
 .StructureError_problemSeverity_2GyZQ {
-  padding: 1em;
-  margin-right: 1em;
+  padding: 1.3em;
+  margin-right: 1.3em;
   min-width: 4em;
   text-align: center
 }
@@ -13331,14 +13331,14 @@ span.DefaultButton_content_3vpzk {
   display: block;
   font-size: 10px;
   font-size: .625rem;
-  margin: 1em 0;
+  margin: 1.3em 0;
   font-weight: 700;
   text-transform: uppercase
 }
 
 .StructureError_problemLink_18VLp {
   clear: both;
-  margin: 1em 0;
+  margin: 1.3em 0;
   display: inline-block;
   color: #303030
 }
@@ -13623,7 +13623,7 @@ span.DefaultButton_content_3vpzk {
   grid-template-columns: repeat(2, 1fr);
   padding: 0;
   margin: 0;
-  font-size: 1em;
+  font-size: 1.3em;
   color: inherit;
   max-width: 100%;
   -webkit-box-sizing: border-box;
@@ -13819,7 +13819,7 @@ a:focus .ToolSwitcherItem_root_1qYUw {
   font-weight: 400;
   width: 100%;
   outline: none;
-  padding: 1em;
+  padding: 1.3em;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   position: relative
@@ -13869,7 +13869,7 @@ a:focus .ToolSwitcherItem_root_1qYUw {
 .Branding_brandLogoContainer_1sF86 svg {
   display: block;
   fill: currentColor;
-  height: 1em;
+  height: 1.3em;
   width: auto
 }
 
@@ -13905,7 +13905,7 @@ a:focus .ToolSwitcherItem_root_1qYUw {
 }
 
 .LoginStatus_inner_3nWUd {
-  padding: .5em 1em;
+  padding: .5em 1.3em;
   position: relative;
   outline: none
 }
@@ -13917,8 +13917,8 @@ a:focus .ToolSwitcherItem_root_1qYUw {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   top: .5em;
-  left: 1em;
-  right: 1em;
+  left: 1.3em;
+  right: 1.3em;
   bottom: .5em;
   border: 1px solid hsla(0, 0%, 100%, .15);
   border-radius: 50%
@@ -14208,9 +14208,9 @@ a:focus .ToolSwitcherItem_root_1qYUw {
 }
 
 .SearchField_isBleeding_3tUoZ .SearchField_input_1Pt1o {
-  font-size: 1em;
+  font-size: 1.3em;
   line-height: 1.25;
-  padding: calc(1em - 2px) 1em calc(1em - 1px)
+  padding: calc(1.3em - 2px) 1.3em calc(1.3em - 1px)
 }
 
 .SearchField_input_1Pt1o::-ms-clear {
@@ -14673,7 +14673,7 @@ a.NavBar_branding_18L90:focus {
 
 .NavBar_createButtonText_1KQG7 {
   display: none;
-  font-size: 1em
+  font-size: 1.3em
 }
 
 .NavBar_searchButton_1UE6F {
@@ -14817,8 +14817,8 @@ a.NavBar_branding_18L90:focus {
 }
 
 .SchemaErrors_problemSeverity_B9JOS {
-  padding: 1em;
-  margin-right: 1em;
+  padding: 1.3em;
+  margin-right: 1.3em;
   min-width: 4em;
   text-align: center
 }
@@ -14832,14 +14832,14 @@ a.NavBar_branding_18L90:focus {
   display: block;
   font-size: 10px;
   font-size: .625rem;
-  margin: 1em 0;
+  margin: 1.3em 0;
   font-weight: 700;
   text-transform: uppercase
 }
 
 .SchemaErrors_problemLink_1_LFq {
   clear: both;
-  margin: 1em 0;
+  margin: 1.3em 0;
   display: inline-block;
   color: #303030
 }
@@ -14998,7 +14998,7 @@ a.NavBar_branding_18L90:focus {
 
 .SideMenu_menuBottom_183Iy {
   margin-top: auto;
-  padding-bottom: 1em
+  padding-bottom: 1.3em
 }
 
 .SideMenu_sanityStudioLogoContainer_2hPhD {
