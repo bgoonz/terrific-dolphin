@@ -277,7 +277,7 @@
 				m = (r.stack ? r.message : r.toString()) + (r.stack ? "\n\nStack:\n\n" + c : "") + "\n\n(Your browsers Developer Tools may contain more info)";
 			i.textContent = m;
 			var p = document.createElement("button");
-			for(p.style.padding = "0.8em 1em", p.style.marginTop = "1em", p.style.border = "none", p.style.backgroundColor = "#303030", p.style.color = "#fff", p.style.borderRadius = "4px", p.onclick = function() {
+			for(p.style.padding = "0.8em 1.3em", p.style.marginTop = "1.3em", p.style.border = "none", p.style.backgroundColor = "#303030", p.style.color = "#fff", p.style.borderRadius = "4px", p.onclick = function() {
 					window.location.reload()
 				}, p.textContent = "Reload", d.appendChild(i), l.appendChild(s), l.appendChild(d), l.appendChild(p); a.firstChild;) a.removeChild(a.firstChild);
 			a.appendChild(l)
