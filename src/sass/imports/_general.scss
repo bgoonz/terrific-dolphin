@@ -72,12 +72,12 @@ h6 {
 }
 
 p {
-  margin: 0 0 1em;
+  margin: 0 0 1.3em;
 }
 
 address {
   font-style: italic;
-  margin: 0 0 1em;
+  margin: 0 0 1.3em;
 }
 
 mark,
@@ -141,7 +141,7 @@ blockquote {
     font-style: normal;
     font-weight: normal;
     letter-spacing: 0.15em;
-    margin-top: 1em;
+    margin-top: 1.3em;
     text-transform: uppercase;
 
     &:last-child {
@@ -159,12 +159,12 @@ dt {
 }
 
 dd {
-  margin: 0 0 1em;
+  margin: 0 0 1.3em;
 }
 
 ul,
 ol {
-  margin: 0 0 1em;
+  margin: 0 0 1.3em;
   padding: 0 0 0 1.33333em;
 }
 
@@ -176,7 +176,7 @@ li > ol {
 hr {
   border: 0;
   border-bottom: 1px dashed _palette(border);
-  margin: 1em 0;
+  margin: 1.3em 0;
 }
 
 table {
@@ -191,7 +191,7 @@ caption {
   color: _palette(meta);
   font-size: 0.875em;
   font-style: normal;
-  margin-bottom: 1em;
+  margin-bottom: 1.3em;
   text-align: left;
 }
 
@@ -255,11 +255,11 @@ select {
 }
 
 .form-group {
-  margin-bottom: 1em;
+  margin-bottom: 1.3em;
 }
 
 .form-submit {
-  margin-top: 1em;
+  margin-top: 1.3em;
 }
 
 .form-select-wrap {
@@ -361,7 +361,7 @@ input[type="reset"],
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
-  font-size: 1em;
+  font-size: 1.3em;
   height: 2.22222em;
   -webkit-box-pack: center;
   -ms-flex-pack: center;
@@ -403,7 +403,7 @@ video {
 }
 
 .js-reframe {
-  margin: 0 0 1em;
+  margin: 0 0 1.3em;
 }
 
 /* Images */
