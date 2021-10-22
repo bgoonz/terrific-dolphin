@@ -1,5 +1,3 @@
-404
-===
+# 404
 
-This page could not be found.
------------------------------
+## This page could not be found.

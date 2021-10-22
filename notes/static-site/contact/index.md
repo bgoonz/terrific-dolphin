@@ -4,20 +4,19 @@
 
 Potluck Planner
 
--   [Home](/)
--   [About](/about/)
--   [Deliverables and Project Definitions](/style-guide/)
--   [Contact](/contact/)
--   [Login](https://front-end-tau-seven.vercel.app/login)
--   [Signup](https://front-end-tau-seven.vercel.app/signup)
--   [Maps](/lorem-ipsum/)
+- [Home](/)
+- [About](/about/)
+- [Deliverables and Project Definitions](/style-guide/)
+- [Contact](/contact/)
+- [Login](https://front-end-tau-seven.vercel.app/login)
+- [Signup](https://front-end-tau-seven.vercel.app/signup)
+- [Maps](/lorem-ipsum/)
 
 <span class="screen-reader-text">GitHub</span>
 
 <span class="screen-reader-text">Menu</span><span class="icon-menu" aria-hidden="true"></span>
 
-Get in Touch
-============
+# Get in Touch
 
 To get in touch fill the form below.
 

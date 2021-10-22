@@ -35,28 +35,28 @@ You can [create a site](https://app.stackbit.com/create?theme=https://github.com
 
 ## Develop Locally
 
-1. Install [Node.js and npm](https://nodejs.org/en/)
+1.  Install [Node.js and npm](https://nodejs.org/en/)
 
-1. Install npm dependencies:
+1.  Install npm dependencies:
 
         npm install
 
-1. Navigate to the ["API Settings"](https://manage.sanity.io/projects/ykw3edr8/settings/api) page of this Sanity.io project. Then click "Add new token" and create new "write" token.
+1.  Navigate to the ["API Settings"](https://manage.sanity.io/projects/ykw3edr8/settings/api) page of this Sanity.io project. Then click "Add new token" and create new "write" token.
 
-1. Assign the created token to the `SANITY_ACCESS_TOKEN` environment variable (replace `{sanity_write_token}` with the token):
+1.  Assign the created token to the `SANITY_ACCESS_TOKEN` environment variable (replace `{sanity_write_token}` with the token):
 
         export SANITY_ACCESS_TOKEN={sanity_write_token}
 
-1. [Optional] Install and run Sanity Studio locally: install sanity-cli `npm install -g @sanity/cli`, navigate to the `/studio` directory, and run `sanity install` and `sanity start`.
-You may be required to login with the Sanity CLI.
+1.  [Optional] Install and run Sanity Studio locally: install sanity-cli `npm install -g @sanity/cli`, navigate to the `/studio` directory, and run `sanity install` and `sanity start`.
+    You may be required to login with the Sanity CLI.
 
-1. Start the Next.js local development server:
+1.  Start the Next.js local development server:
 
         npm run develop
 
-1. Open [http://localhost:3000/](http://localhost:3000/) in the browser
+1.  Open [http://localhost:3000/](http://localhost:3000/) in the browser
 
-1. 🎉
+1.  🎉
 
 ## Editing Content
 

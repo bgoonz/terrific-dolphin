@@ -1,17 +1,16 @@
 [![potluck logo](https://i.imgur.com/tDiPLqa.png)](/)
 
-[Potluck Planner](/)
-====================
+# [Potluck Planner](/)
 
 Potluck Planner
 
--   [Home](/)
--   [About](/about/)
--   [Deliverables and Project Definitions](/style-guide/)
--   [Contact](/contact/)
--   [Login](https://front-end-tau-seven.vercel.app/login)
--   [Signup](https://front-end-tau-seven.vercel.app/signup)
--   [Maps](/lorem-ipsum/)
+- [Home](/)
+- [About](/about/)
+- [Deliverables and Project Definitions](/style-guide/)
+- [Contact](/contact/)
+- [Login](https://front-end-tau-seven.vercel.app/login)
+- [Signup](https://front-end-tau-seven.vercel.app/signup)
+- [Maps](/lorem-ipsum/)
 
 <span class="screen-reader-text">GitHub</span>
 

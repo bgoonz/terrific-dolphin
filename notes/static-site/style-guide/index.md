@@ -4,32 +4,29 @@
 
 Potluck Planner
 
--   [Home](/)
--   [About](/about/)
--   [Deliverables and Project Definitions](/style-guide/)
--   [Contact](/contact/)
--   [Login](https://front-end-tau-seven.vercel.app/login)
--   [Signup](https://front-end-tau-seven.vercel.app/signup)
--   [Maps](/lorem-ipsum/)
+- [Home](/)
+- [About](/about/)
+- [Deliverables and Project Definitions](/style-guide/)
+- [Contact](/contact/)
+- [Login](https://front-end-tau-seven.vercel.app/login)
+- [Signup](https://front-end-tau-seven.vercel.app/signup)
+- [Maps](/lorem-ipsum/)
 
 <span class="screen-reader-text">GitHub</span>
 
 <span class="screen-reader-text">Menu</span><span class="icon-menu" aria-hidden="true"></span>
 
-Deliverables & Project Definitions
-==================================
+# Deliverables & Project Definitions
 
 Here is the problem we aim to solve
 
-☝️ **Pitch**
-============
+# ☝️ **Pitch**
 
 If you have ever tried to organize a potluck through text messages, online to-do lists or spreadsheets, you'll understand why this app is essential.
 
 In the world of social gatherings and potlucks the "Potluck Planner" is king. This is your place for all things pot luck.
 
-✅ **MVP**
----------
+## ✅ **MVP**
 
 1.  As an organizer I can create an upcoming potluck and invite my friends to attend
 
@@ -43,8 +40,7 @@ In the world of social gatherings and potlucks the "Potluck Planner" is king. Th
 
 **NOTE: All of the user stories above should only require a single user type. Users can create "potlucks" and add other users to them.**
 
-🏃‍♀️ **Stretch**
-----------------
+## 🏃‍♀️ **Stretch**
 
 1.  Add a reminders functionality that allows users to link up their upcoming dates to their Google calendar.
 
@@ -62,7 +58,7 @@ In the world of social gatherings and potlucks the "Potluck Planner" is king. Th
 
 [How to set up Trello board for Build Weeks](https://www.notion.so/How-to-set-up-Trello-board-for-Build-Weeks-87e487e7064f4e6d80850faefd725de5)
 
--   If you're new to Trello, [here's a basic guide to using it.](https://trello.com/en-US/guide/trello-101)
+- If you're new to Trello, [here's a basic guide to using it.](https://trello.com/en-US/guide/trello-101)
 
 [How to setup Github Organization for Build Weeks](https://www.notion.so/How-to-setup-Github-Organization-for-Build-Weeks-359f7047822a4e54bb216e2636d14f66)
 

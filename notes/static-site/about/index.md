@@ -4,27 +4,25 @@
 
 Potluck Planner
 
--   [Home](/)
--   [About](/about/)
--   [Deliverables and Project Definitions](/style-guide/)
--   [Contact](/contact/)
--   [Login](https://front-end-tau-seven.vercel.app/login)
--   [Signup](https://front-end-tau-seven.vercel.app/signup)
--   [Maps](/lorem-ipsum/)
+- [Home](/)
+- [About](/about/)
+- [Deliverables and Project Definitions](/style-guide/)
+- [Contact](/contact/)
+- [Login](https://front-end-tau-seven.vercel.app/login)
+- [Signup](https://front-end-tau-seven.vercel.app/signup)
+- [Maps](/lorem-ipsum/)
 
 <span class="screen-reader-text">GitHub</span>
 
 <span class="screen-reader-text">Menu</span><span class="icon-menu" aria-hidden="true"></span>
 
-About Us
-========
+# About Us
 
 This Project was created in collaboration by Aldo Mata, Ethan Edmond, & Bryan Guner
 
-*Aldo Mata*
-===========
+# _Aldo Mata_
 
-> *unit:4*
+> _unit:4_
 
 > responsible for: backend
 
@@ -32,24 +30,23 @@ This Project was created in collaboration by Aldo Mata, Ethan Edmond, & Bryan G
 
 ![](https://cdn.sanity.io/images/ykw3edr8/production/1150039920a2c75c60f9486e99e3ec200480dcb3-515x526.png)
 
-Ethan Edmond
-============
+# Ethan Edmond
 
-> *unit:3*
+> _unit:3_
 
-> *responsible for: frontend*
+> _responsible for: frontend_
 
 [Github](https://github.com/Ethan-Edmond) & [Linkedin](https://www.linkedin.com/in/ethan-edmond/)
 
 ![](https://cdn.sanity.io/images/ykw3edr8/production/8b269e80ba1717036c82c7df6894d8a6897e24ae-460x460.jpg)
 
-------------------------------------------------------------------------
+---
 
 ### Bryan Guner
 
-> *unit:3*
+> _unit:3_
 
-> *responsible for: frontend*
+> _responsible for: frontend_
 
 [Github](https://github.com/bgoonz) & [Linkedin](https://www.linkedin.com/in/bryan-guner-046199128/)
 
@@ -57,9 +54,9 @@ Ethan Edmond
 
 #### William Moon
 
-> *unit:4*
+> _unit:4_
 
-> *responsible for: backend*
+> _responsible for: backend_
 
 [Github](https://github.com/bgoonz) & [Linkedin](https://www.linkedin.com/in/bryan-guner-046199128/)
 
