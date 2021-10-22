@@ -1,39 +1,39 @@
 export default {
-  name: 'Bryan Guner',
-  title: 'Author',
-  type: 'document',
+  name: "Bryan Guner",
+  title: "Author",
+  type: "document",
   fields: [
     {
-      name: 'Bryan Guner',
-      title: 'Developer',
-      type: 'string',
+      name: "Bryan Guner",
+      title: "Developer",
+      type: "string",
     },
     {
-      name: 'slug',
-      title: 'Slug',
-      type: 'slug',
+      name: "slug",
+      title: "Slug",
+      type: "slug",
       options: {
-        source: 'name',
+        source: "name",
         maxLength: 96,
       },
     },
     {
-      name: 'image',
-      title: 'Image',
-      type: 'image',
+      name: "image",
+      title: "Image",
+      type: "image",
       options: {
         hotspot: true,
       },
     },
     {
-      name: 'bio',
-      title: 'Bio',
-      type: 'array',
+      name: "bio",
+      title: "Bio",
+      type: "array",
       of: [
         {
-          title: 'Block',
-          type: 'block',
-          styles: [{title: 'Normal', value: 'normal'}],
+          title: "Block",
+          type: "block",
+          styles: [{ title: "Normal", value: "normal" }],
           lists: [],
         },
       ],
@@ -41,8 +41,8 @@ export default {
   ],
   preview: {
     select: {
-      title: 'name',
-      media: 'image',
+      title: "name",
+      media: "image",
     },
   },
-}
+};
