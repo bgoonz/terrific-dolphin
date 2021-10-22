@@ -1,4 +1,4 @@
-[![potluck logo](https://cdn.sanity.io/images/ykw3edr8/production/bd7b87c3d64cd87c0e3308430691daadf014bd54-183x197.png)](/)
+[![potluck logo](https://i.imgur.com/tDiPLqa.png)](/)
 
 [Potluck Planner](/)
 ====================
